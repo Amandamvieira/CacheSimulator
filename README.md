@@ -74,8 +74,11 @@ Taxa de misses: 0.08 Número de misses: 8000
 
 ### 📁 CacheSimulator/
 │-- cache_simulator.py  # Código principal do simulador
+
 │-- README.md           # Documentação do projeto
+
 │-- bin_1000.bin        # Exemplo de arquivo de entrada dado pelo professor
+
 
 ## 📜 Licença
 
