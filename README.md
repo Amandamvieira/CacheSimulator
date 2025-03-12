@@ -79,5 +79,5 @@ Taxa de misses: 0.08 Número de misses: 8000
 
 ## 📜 Licença
 
-## Este trabalho foi desenvolvido pelas alunas Amanda e Eduarda como parte de um estudo sobre simulação de cache.
-## Este projeto é de código aberto e pode ser modificado livremente.
+#### Este trabalho foi desenvolvido pelas alunas Amanda e Eduarda como parte de um estudo sobre simulação de cache.
+#### Este projeto é de código aberto e pode ser modificado livremente.
