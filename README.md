@@ -1,8 +1,8 @@
-## 📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 Este projeto é um simulador de cache desenvolvido em Python, permitindo a configuração de diferentes parâmetros para simular o comportamento da cache em sistemas computacionais.
 
-# 🔹 Funcionalidades
+## 🔹 Funcionalidades
 
 ✔ Suporte a mapeamento direto e associativo
 ✔ Implementação de diferentes políticas de substituição:
@@ -17,7 +17,7 @@ Este projeto é um simulador de cache desenvolvido em Python, permitindo a confi
 ✔ Entrada de dados via arquivos binários contendo endereços de memória
 ✔ Geração de estatísticas detalhadas sobre os acessos à cache
 
-# 🛠️ Como Executar
+## 🛠️ Como Executar
 
 1️⃣ Instale as Dependências
 
@@ -40,7 +40,7 @@ python cache_simulator.py
 
 Caso esteja no Google Colab, basta rodar o script diretamente após definir o caminho do arquivo binário.
 
-# ⚙️ Configuração da Cache
+## ⚙️ Configuração da Cache
 
 
 nsets = 256       # Número de conjuntos na cache
@@ -50,7 +50,7 @@ subst = "R"       # Política de substituição (R, F, L, A)
 flag_saida = 1    # Formato da saída (0 = detalhado, 1 = compacto)
 arquivo_entrada = "/content/bin_1000.bin"  # Caminho do arquivo binário
 
-# 📊 Formato da Saída
+## 📊 Formato da Saída
 
 O simulador gera estatísticas como:
 
@@ -70,14 +70,14 @@ Número de acessos: 100000
 Taxa de hits: 0.92   Número de hits: 92000
 Taxa de misses: 0.08 Número de misses: 8000
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
-📁 CacheSimulator/
+### 📁 CacheSimulator/
 │-- cache_simulator.py  # Código principal do simulador
 │-- README.md           # Documentação do projeto
 │-- bin_1000.bin        # Exemplo de arquivo de entrada dado pelo professor
 
-📜 Licença
+## 📜 Licença
 
-Este trabalho foi desenvolvido pelas alunas Amanda e Eduarda como parte de um estudo sobre simulação de cache.
-Este projeto é de código aberto e pode ser modificado livremente.
+## Este trabalho foi desenvolvido pelas alunas Amanda e Eduarda como parte de um estudo sobre simulação de cache.
+## Este projeto é de código aberto e pode ser modificado livremente.
